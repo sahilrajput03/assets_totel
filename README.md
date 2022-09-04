@@ -7,3 +7,5 @@
 ## add to nextjs learning repo
 
 Why you should use `Image` component in nextjs: https://youtu.be/ZRZngn_GdXY
+
+tldr: 1. It provides lazy loading i.e., only the iamges on the screen are loaded and subsequent are loaded on scroll.
