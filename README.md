@@ -8,4 +8,6 @@
 
 Why you should use `Image` component in nextjs: https://youtu.be/ZRZngn_GdXY
 
-tldr: 1. It provides lazy loading i.e., only the iamges on the screen are loaded and subsequent are loaded on scroll.
+tldr:
+- 1. It provides lazy loading i.e., only the iamges on the screen are loaded and subsequent are loaded on scroll.
+- 2. images are converted to `webp` format (optimized for web) automatically.
