@@ -10,4 +10,5 @@ Why you should use `Image` component in nextjs: https://youtu.be/ZRZngn_GdXY
 
 tldr:
 - It provides lazy loading i.e., only the images on the screen are loaded and subsequent are loaded on scroll.
-- Images are converted to `webp` format (optimized for web) automatically.
+- Images are converted to `webp` format (optimized for web) automatically thus extremely reduced size of images
+- fixes layout shifts as well
