@@ -15,3 +15,7 @@ tldr:
 - It provides lazy loading i.e., only the images on the screen are loaded and subsequent are loaded on scroll.
 - Images are converted to `webp` format (optimized for web) automatically thus extremely reduced size of images
 - fixes layout shifts as well
+
+**How to use `Image` comp?**
+
+![image](https://user-images.githubusercontent.com/31458531/188314170-22f9bd02-5894-4501-9ee4-01cec3421039.png)
